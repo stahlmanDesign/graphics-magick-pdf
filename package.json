@@ -1,0 +1,14 @@
+{
+  "name": "imagemagick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read-img.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Stahlman <jstahlman@mac.com> (http://www.stahlmandesign.com)",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.22.0"
+  }
+}
